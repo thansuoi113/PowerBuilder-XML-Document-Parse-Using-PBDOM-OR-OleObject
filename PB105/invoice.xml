@@ -1,0 +1,30 @@
+<Invoice>
+    <Module>
+        <InvoiceLine>
+              <InvoiceLineNumber/>
+              <LineCode>GROUPEMENT 1</LineCode>
+              <FullLineDescription/>
+              <Quantity>0</Quantity>
+              <UnitPrice>0</UnitPrice>
+              <LineValue>9983.11</LineValue>
+              <LineComment/>
+              <LineTax>
+                <TaxCode>04</TaxCode>
+                <TaxRate>19.60</TaxRate>
+                <TaxValue>1956.68</TaxValue>
+              </LineTax>
+              <LineValueWithTax>11939.79</LineValueWithTax>
+              <DiscountRate>0</DiscountRate>
+              <NetUnitPrice>0</NetUnitPrice>
+              <SpecialTax/>
+              <Serial>
+              </Serial>
+              <Harware/>
+              <Harware/>
+              <Harware someattrib=""/>
+              <Harware/>
+              <Harware>some content</Harware>
+              <Harware/>
+        </InvoiceLine>
+    </Module>
+</Invoice>

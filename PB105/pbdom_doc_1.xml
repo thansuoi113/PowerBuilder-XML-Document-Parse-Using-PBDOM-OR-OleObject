@@ -1,0 +1,10 @@
+<!DOCTYPE abc [<!ENTITY text "Some Text" >]>
+ <abc>
+   <data>
+     <child_data>Child Data Text</child_data>
+     <child_data An_Attribute="Some Attribute Value"/>
+     &text;
+     <!--Comment String-->
+     <![CDATA[Some CDATA String]]>
+   </data>
+ </abc>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presentation code="ID352">
+   <!--Example XML file-->
+   <title>A PB / XML Messaging System</title>
+   <presenter>Paul Donohue</presenter>
+   <audience>PowerBuilder Developers</audience>
+   <time>13:30</time>
+   <date>2001-08-13</date>
+</presentation>

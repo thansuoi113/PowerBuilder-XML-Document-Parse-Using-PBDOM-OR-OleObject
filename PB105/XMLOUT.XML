@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CUSTOMERS>
+   <CUSTOMER ID="101">
+      <FIRSTNAME>Michaels</FIRSTNAME>
+      <LASTNAME>Devlin</LASTNAME>
+      <ADDRESS>3114 Pioneer Avenue</ADDRESS>
+      <CITY>Rutherford</CITY>
+      <STATE>NJ</STATE>
+      <ZIP>07070</ZIP>
+      <PHONE>2015558966</PHONE>
+      <COMPANY>The Power Group</COMPANY>
+   </CUSTOMER>
+   <CUSTOMER ID="102">
+      <FIRSTNAME>Beth</FIRSTNAME>
+   </CUSTOMER>
+</CUSTOMERS>
